@@ -24,7 +24,7 @@ It looks kinda obvious but can be really handy.
 
 ## Libraries
 
-- typegraphql: https://github.com/19majkel94/type-graphql/ Create GraphQL schema and resolvers with TypeScript, using classes and decorators!
+- typegraphql: https://github.com/19majkel94/type-graphql/ Create GraphQL schema and resolvers with TypeScript, using classes and decorators! [now at 1.0](https://dev.to/michallytek/announcing-typegraphql-1-0-1d7h)
 - `graphql-code-generator`: https://github.com/dotansimha/graphql-code-generator ([Usage example](https://formidable.com/blog/2019/strong-typing/))
 
 ## Podcasts
